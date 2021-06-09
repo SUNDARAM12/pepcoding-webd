@@ -11,3 +11,9 @@ console.log(s);
 
 
 callMe("steve")
+
+let sayhi = function(){
+    console.log("function says hii!!");
+
+}
+sayhi();
