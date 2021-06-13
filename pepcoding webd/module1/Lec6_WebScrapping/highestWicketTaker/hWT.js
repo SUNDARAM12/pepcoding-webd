@@ -6,6 +6,7 @@ let link = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/delhi-capita
 request( link  , cb );
 
 function cb(error , response , html){
+    //console.log(Data)
     evalHTML(html);
 }
 
