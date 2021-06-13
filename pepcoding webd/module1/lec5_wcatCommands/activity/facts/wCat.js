@@ -43,5 +43,30 @@ let sFlagedString = sFlagedData.join("\r\n");
 return sFlagedString;
 }
 
-data = applysFlag();
-console.log(data);
+//data = applysFlag();
+//console.log(data);
+
+
+//-n flag 
+function applyNflag(){
+    let datacomps=data.split("\r\n");
+    let count =1
+    for(let i=0;i<datacomps.length;i++){
+        datacomps[i]= `${count}.${datacomps[i]}`;
+        count++;
+    }
+    //console.log(datacomps);
+    let nFlaggedString = datacomps.join("\r\n");
+   // console.log(nFlaggedString);
+   return nFlaggedString;
+}
+
+data=applyNflag();
+
+
+
+
+
+//-b flag
+
+
