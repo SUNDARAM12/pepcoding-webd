@@ -1,0 +1,42 @@
+[
+    {
+        "issueName": "Resources consumed by HardwareSerial even when not actually used",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11597"
+    },
+    {
+        "issueName": "Short circuit in schematic",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11596"
+    },
+    {
+        "issueName": "Memory Leak in arduino IDE",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11590"
+    },
+    {
+        "issueName": "Arduino Nano33IoT does not reassign pins to serial port",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11589"
+    },
+    {
+        "issueName": "⚠️  New Library Manager submission/update system!",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11588"
+    },
+    {
+        "issueName": "SD reference, forum link equals OOPS when following",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11574"
+    },
+    {
+        "issueName": "\"pwsh not found in %PATH%\" on Windows + MacOS",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11565"
+    },
+    {
+        "issueName": "Tools overridden via --prefs are persistent",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11556"
+    },
+    {
+        "issueName": "[Arduino IDE] Overlapping tooltip bug, when using multiple tabs",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11538"
+    },
+    {
+        "issueName": "How can I add unofficial list of 3rd party boards support urls?",
+        "issueLink": "https://www.github.com/arduino/Arduino/issues/11524"
+    }
+]
